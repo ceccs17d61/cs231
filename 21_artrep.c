@@ -38,4 +38,4 @@ void main()
         temp=temp->link;
     }    
 }
-© 2018 GitHub, Inc.
+Â© 2018 GitHub, Inc.
